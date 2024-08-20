@@ -18,7 +18,7 @@ The dataset is from the National Centers for Environmental Information (NCEI) Da
 - **`seaborn`**: For enhanced visualizations.
 
 ## Instructions
-1. Open `Tranzmeo_Data_Science_Assignment.ipynb`.
+1. Open `NOAA_Climate Patterns Analysis and Visualization (2005-2015).ipynb`.
 2. Run the notebook cells sequentially.
 
 ## Contact
