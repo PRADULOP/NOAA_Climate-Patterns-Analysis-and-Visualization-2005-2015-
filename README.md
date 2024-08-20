@@ -1,7 +1,7 @@
 # NOAA_Climate-Patterns-Analysis-and-Visualization-2005-2015-
 
 ## Overview
-This repository contains the Jupyter notebook for the Data Science assignment at Tranzmeo IT Solutions Pvt. Ltd. It includes visualizations and analysis of temperature data from 2005 to 2015.
+This repository contains a Jupyter notebook with visualizations and analysis of temperature data from 2005 to 2015.
 
 ## Dataset Source
 The dataset is from the National Centers for Environmental Information (NCEI) Daily Global Historical Climatology Network (GHCN-Daily), which provides daily climate records from land surface stations worldwide.
