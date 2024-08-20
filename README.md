@@ -4,7 +4,7 @@
 This repository contains the Jupyter notebook for the Data Science assignment at Tranzmeo IT Solutions Pvt. Ltd. It includes visualizations and analysis of temperature data from 2005 to 2015.
 
 ## Dataset Source
-The dataset is from the National Centers for Environmental Information (NCEI) Daily Global Historical Climatology Network (GHCN-Daily), which provides daily climate records from land surface stations worldwide. [GHCN-Daily Data Source](https://www.ncdc.noaa.gov/ghcn-daily-description).
+The dataset is from the National Centers for Environmental Information (NCEI) Daily Global Historical Climatology Network (GHCN-Daily), which provides daily climate records from land surface stations worldwide.
 
 ## Analysis
 1. **Data Preparation**: Preprocessing and removal of leap days.
