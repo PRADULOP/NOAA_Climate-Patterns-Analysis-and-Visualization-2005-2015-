@@ -4,7 +4,7 @@
 This repository contains a Jupyter notebook with visualizations and analysis of temperature data from 2005 to 2015.
 
 ## Dataset Source
-The dataset is from the National Centers for Environmental Information (NCEI) Daily Global Historical Climatology Network (GHCN-Daily), which provides daily climate records from land surface stations worldwide.
+The datasets is subset of a dataset from the National Centers for Environmental Information (NCEI) Daily Global Historical Climatology Network (GHCN-Daily), which provides daily climate records from land surface stations worldwide.
 
 ## Analysis
 1. **Data Preparation**: Preprocessing and removal of leap days.
