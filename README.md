@@ -1,8 +1,14 @@
 # NOAA_Climate-Patterns-Analysis-and-Visualization-2005-2015-
 
 ## Overview
-This repository contains a Jupyter notebook with visualizations and analysis of temperature data from 2005 to 2015.
+This repository contains datasets and a Jupyter notebook with visualizations and analysis of temperature data from 2005 to 2015.
 
+## Files
+- **Analysis Report.pdf**: A PDF report summarizing the analysis findings.
+- **NOAA_Climate Patterns Analysis and Visualization (2005-2015).ipynb**: The Jupyter notebook containing the analysis and visualizations.
+- **map_image.png**: An image file showing the interactive map visualization.
+- **README.md**: This file.
+  
 ## Dataset Source
 The datasets is subset of a dataset from the National Centers for Environmental Information (NCEI) Daily Global Historical Climatology Network (GHCN-Daily), which provides daily climate records from land surface stations worldwide.
 
