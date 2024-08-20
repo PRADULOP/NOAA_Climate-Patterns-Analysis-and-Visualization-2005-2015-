@@ -11,7 +11,7 @@ The datasets is subset of a dataset from the National Centers for Environmental 
 2. **Record High and Low Temperatures**: Line graph with shaded areas.
 3. **Overlay 2015 Data**: Scatter plot for broken records in 2015.
 4. **Map Visualization**: Interactive map of weather stations near Ann Arbor, Michigan.
-   ![Logo](./Resources/ui.png)
+   ![Logo](map_image.png)
 5. **Temperature Summary for 2015**: Temperature summary for 2015.
 
 ## Additional Modules
