@@ -7,6 +7,7 @@ This repository contains datasets and a Jupyter notebook with visualizations and
 - **Analysis Report.pdf**: A PDF report summarizing the analysis findings.
 - **NOAA_Climate Patterns Analysis and Visualization (2005-2015).ipynb**: The Jupyter notebook containing the analysis and visualizations.
 - **map_image.png**: An image file showing the interactive map visualization.
+- **station_map.html**: An html file showing the interactive map visualization. 
 - **README.md**: This file.
   
 ## Dataset Source
