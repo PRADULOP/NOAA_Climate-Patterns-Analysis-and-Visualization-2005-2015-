@@ -20,7 +20,7 @@ The datasets is subset of a dataset from the National Centers for Environmental 
 4. **Map Visualization**: Interactive map of weather stations near Ann Arbor, Michigan.
    ![Logo](map_image.png)
 5. **Temperature Summary for 2015**: Temperature summary for 2015.
-6. **Plot Enhancements**: Improved readability by adding clear legends, labels, and minimizing chart junk
+6. **Plot Enhancements**: Improved readability by adding clear legends, labels, and minimizing chart junk.
 
 ## Additional Modules
 - **`folium`**: For interactive maps.
